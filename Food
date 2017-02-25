@@ -1,0 +1,35 @@
+        I Like Food
+      </h1>
+    </header>
+    <li ID"GOLD"> steak</li>
+    <li> fries</li>
+    <li> hamburgers</li>
+    <a href="https://goo.gl/images/Ib7eL3"></a>
+             
+    <main>
+      <p class="bold">Oh hi,</p>
+      <p>Tell me your favorite food.:</p>
+      <form>
+        <input type="text" maxlength="100" placeholder="FOOD!">
+        <button type="submit">Submit</button>
+      </form>
+      <section class="FOOD">
+        <ul id="FOOD">
+        </ul>
+      </section>
+    </main>
+
+    <footer>
+      <a href="https://gomix.com">
+        Remix this in Gomix
+      </a>
+    </footer>
+
+    <!-- Your web-app is https, so your scripts need to be too -->
+    <script src="https://code.jquery.com/jquery-2.2.1.min.js"
+            integrity="sha256-gvQgAFzTH6trSrAWoH1iPo9Xc96QxSZ3feW6kem+O00="
+            crossorigin="anonymous"></script>
+    <script src="/client.js"></script>
+
+  </body>
+</html>
